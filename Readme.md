@@ -9,6 +9,22 @@ Explore US Bikeshare Data
 
 
 ## Project overview
+In this project, you will use Python to analyze data related to bike share systems in three major cities in the United States: Chicago, New York City, and Washington.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+project
 import time
 import pandas as pd
 import numpy as np
